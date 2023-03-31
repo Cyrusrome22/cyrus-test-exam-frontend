@@ -2,7 +2,7 @@
 ## Prepared by: Cyrus Rome Dela Cruz
 
 ### Programming Language:
-1. Nodejs - Typescript
+1. NextJS - Typescript
 
 ### Development Features:
 1. Caching with React Query
