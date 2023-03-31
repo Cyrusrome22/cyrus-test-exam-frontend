@@ -9,6 +9,8 @@
 2. Custom hooks
 3. Client Error Handling
 4. Server Error Handling
+5. Client Side Rendering
+6. Server Side Rendering
 
 
 ### Installation steps:
